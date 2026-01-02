@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python Virtual Environment
+.venv/
+venv/
+env/
+
+# RAG Databases
+chroma_db/
+*.db
+
+# Ollama Models
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
